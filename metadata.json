@@ -1,0 +1,6 @@
+{
+  "name": "PKBM Menara - Sistem Pendidikan Kesetaraan Terpadu",
+  "description": "Portal resmi PKBM Menara: Pendaftaran Online Paket A/B/C, E-Learning Modul Kesetaraan, Manajemen Rapor & Nilai, Dasbor Guru & Analitik Real-Time, Upload Materi Guru, dan Komunikasi Terpadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
